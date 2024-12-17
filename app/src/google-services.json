@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999063529922",
+    "project_id": "ttt-prototype",
+    "storage_bucket": "ttt-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999063529922:android:0592ebec8731888cebce5b",
+        "android_client_info": {
+          "package_name": "androidsamples.java.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SOrodFvlZ8D2n-0iU5K7zqD70xjjcTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
